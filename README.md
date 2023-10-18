@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gargshruti19
+- 👋 Hi, I’m Shruti Garg
 - 👀 I’m interested in coding so after doing graduation in chemistry subject , i want a carrer in tech.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on web projects.
