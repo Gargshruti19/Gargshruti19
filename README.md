@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shruti Garg
-- 👀 I’m interested in coding so after doing graduation in chemistry subject , i want a carrer in tech.
+- 👀 I’m learning web development, have good command over HTML, CSS, JS, Frameworks(Bootstrap) etc.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me garg76140@gmail.com
