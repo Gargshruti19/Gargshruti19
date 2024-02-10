@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React js.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me garg76140@gmail.com
-- 🌟 Connect With me on Twitter https://shorturl.at/IL026
+- 🌟 Connect With me on Twitter [https://shorturl.at/IL026](https://twitter.com/ShrutiG234?t=l5akPaWbdiV9xHHOO1vTrQ&s=09)
 - ⭐ Connect With me on Linkedin 
 <!---
 Gargshruti19/Gargshruti19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
